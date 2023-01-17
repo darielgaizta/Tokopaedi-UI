@@ -1,4 +1,6 @@
-# tokopaedi_ui
+# Tokopaedi UI
+
+UI for Tokopaedi website using Vue.
 
 ## Project setup
 ```
